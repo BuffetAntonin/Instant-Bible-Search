@@ -1,7 +1,7 @@
 ---
 name: Nouvelle Fonctionnalité
 about: Proposer une nouvelle fonctionnalité pour le projet
-title: "[FEATURE] - "
+title: "FEATURE/ "
 labels: enhancement
 assignees: ''
 
