@@ -6,6 +6,7 @@ labels: enhancement
 assignees: ''
 
 ---
+
 ## Description
 Résumé rapide des changements apportés par cette PR. (Ex : ajout du composant de recherche, correction de l'affichage mobile...)
 
